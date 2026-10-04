@@ -1,0 +1,2 @@
+[console_scripts]
+rq = run_query:main

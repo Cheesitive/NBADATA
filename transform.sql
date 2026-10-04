@@ -11,7 +11,7 @@ SELECT opp  FROM staging_box_scores;
 INSERT INTO players (player_name)
 SELECT DISTINCT player_name
 FROM staging_box_scores
-ORDER BY player_name
+ORDER BY player_name;
 
 INSERT INTO games (game_date, home_team_id, away_team_id)
 SELECT DISTINCT game_date, team, opp

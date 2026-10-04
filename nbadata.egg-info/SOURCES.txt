@@ -1,0 +1,8 @@
+pyproject.toml
+run_query.py
+nbadata.egg-info/PKG-INFO
+nbadata.egg-info/SOURCES.txt
+nbadata.egg-info/dependency_links.txt
+nbadata.egg-info/entry_points.txt
+nbadata.egg-info/requires.txt
+nbadata.egg-info/top_level.txt
