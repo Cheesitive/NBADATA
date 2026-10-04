@@ -1,1 +1,0 @@
-SELECT * FROM teams LIMIT 10; 
